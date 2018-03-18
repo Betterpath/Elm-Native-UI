@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "2.0.1",
     "summary": "Experimental support for writing React Native powered mobile applications",
     "repository": "https://github.com/betterpath/elm-native-ui.git",
     "license": "BSD3",
