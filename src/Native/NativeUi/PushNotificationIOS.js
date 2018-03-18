@@ -1,4 +1,4 @@
-const _ohanhi$elm_native_ui$Native_NativeUi_PushNotificationIOS = function () {
+const _betterpath$elm_native_ui$Native_NativeUi_PushNotificationIOS = function () {
   const { PushNotificationIOS } = require("react-native");
 
   const register = _elm_lang$core$Native_Scheduler.nativeBinding(function(callback) {

@@ -1,4 +1,4 @@
-# Elm Native UI [![Build Status](https://travis-ci.org/ohanhi/elm-native-ui.svg?branch=master)](https://travis-ci.org/ohanhi/elm-native-ui)
+# Elm Native UI [![Build Status](https://travis-ci.org/betterpath/elm-native-ui.svg?branch=master)](https://travis-ci.org/betterpath/elm-native-ui)
 
 ![](img/elm-native-160.png)
 
@@ -99,9 +99,9 @@ Later versions of react native may work, however, specifically in the subsequent
 
 ## How it works
 
-This section was outdated, but for an overview of the older structure, read this blog post: [Elm Native UI: Writing a React Native app in Elm](http://ohanhi.github.io/elm-native-ui.html)
+This section was outdated, but for an overview of the older structure, read this blog post: [Elm Native UI: Writing a React Native app in Elm](http://betterpath.github.io/elm-native-ui.html)
 
-You can also watch this [ElmCast Live episode](https://www.livecoding.tv/elmcast/videos/JjbOK-elmcast-live-2), where @ohanhi explains some of the differences between the old and the new versions. (You can safely skip the first 5 minutes, as we had technical issues in the beginning.)
+You can also watch this [ElmCast Live episode](https://www.livecoding.tv/elmcast/videos/JjbOK-elmcast-live-2), where @betterpath explains some of the differences between the old and the new versions. (You can safely skip the first 5 minutes, as we had technical issues in the beginning.)
 
 
 ## Screenshots
@@ -117,7 +117,7 @@ iOS | Android
   - [x] Make basic VTree work
   - [x] Add some kind of event handlers
 - [x] Library
-  - [x] Make `main` support our VTree ([see this suggestion](https://github.com/ohanhi/elm-native/commit/0a35edeb0c21985394b6f3b296140da431aa936c#commitcomment-14303291))
+  - [x] Make `main` support our VTree ([see this suggestion](https://github.com/betterpath/elm-native/commit/0a35edeb0c21985394b6f3b296140da431aa936c#commitcomment-14303291))
 - [ ] Styles
   - [x] Basic types for styles
   - [x] Support object type styles - _transform styles and `shadowOffset`_

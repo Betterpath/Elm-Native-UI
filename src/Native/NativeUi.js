@@ -1,4 +1,4 @@
-var _ohanhi$elm_native_ui$Native_NativeUi = (function () {
+var _betterpath$elm_native_ui$Native_NativeUi = (function () {
 
   var ReactNative = require('react-native');
   var React = require('react');

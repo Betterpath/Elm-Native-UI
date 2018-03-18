@@ -1,4 +1,4 @@
-const _ohanhi$elm_native_ui$Native_NativeUi_Platform = function () {
+const _betterpath$elm_native_ui$Native_NativeUi_Platform = function () {
   const { Platform } = require("react-native");
 
   return {

@@ -1,4 +1,4 @@
-const _ohanhi$elm_native_ui$Native_NativeUi_StyleSheet = function () {
+const _betterpath$elm_native_ui$Native_NativeUi_StyleSheet = function () {
   const { StyleSheet } = require("react-native");
 
   const listFromArray = _elm_lang$core$Native_List.fromArray;
